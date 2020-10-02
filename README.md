@@ -1,6 +1,6 @@
-film
+Film
 ====
 
-film type ,film info,film mark,film introduce
+film type, film info, film mark, film introduce
 
-it is a new project,just started
+it is a new project, just started
